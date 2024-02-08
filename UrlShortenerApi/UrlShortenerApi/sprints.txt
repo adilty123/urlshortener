@@ -8,3 +8,9 @@ Create database to store URLS.
 -Original Url.
 -Shortened Url.
 
+Scafhold URLS controller.
+
+Add custom controller to find url that maches code passed in as param.
+
+Use response to redirect to original link.
+

@@ -265,3 +265,4 @@ C:\Users\slink\OneDrive\Documents\All_Laptop_Projects\urlshortener\UrlShortenerA
 C:\Users\slink\OneDrive\Documents\All_Laptop_Projects\urlshortener\UrlShortenerApi\UrlShortenerApi\obj\Debug\net8.0\UrlShortenerApi.pdb
 C:\Users\slink\OneDrive\Documents\All_Laptop_Projects\urlshortener\UrlShortenerApi\UrlShortenerApi\obj\Debug\net8.0\UrlShortenerApi.genruntimeconfig.cache
 C:\Users\slink\OneDrive\Documents\All_Laptop_Projects\urlshortener\UrlShortenerApi\UrlShortenerApi\obj\Debug\net8.0\ref\UrlShortenerApi.dll
+C:\Users\slink\OneDrive\Documents\All_Laptop_Projects\urlshortener\UrlShortenerApi\UrlShortenerApi\obj\Debug\net8.0\UrlShortenerApi.sourcelink.json
