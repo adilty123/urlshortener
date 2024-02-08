@@ -1,5 +1,6 @@
 //Login form compoenet. Displays login form and handles events realted to form.
 import React, {useState, useEffect} from "react";
+import './form.css';
 import {useNavigate} from "react-router-dom"
 
 const LoginForm = (props) =>{
@@ -77,7 +78,7 @@ const LoginForm = (props) =>{
             localStorage.setItem("user", JSON.stringify({email, token: response.accessToken}));
             props.setLoggedIn(true);
             props.setEmail(email);
-            navigate('/uploadForm');
+            navigate('/urlForm');
           }
           else{
             setPasswordError("Invalid email or password");

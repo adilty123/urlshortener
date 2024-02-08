@@ -1,6 +1,7 @@
 //Displays register form and handle events related.
 import React, {useState} from "react";
-import {useNavigate} from "react-router-dom"
+import {useNavigate} from "react-router-dom";
+import './form.css';
 
 const RegisterForm = (props) =>{
     const [email, setEmail] = useState("")
